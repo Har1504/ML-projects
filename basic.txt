@@ -1,0 +1,12 @@
+Here are some basic machine learning models:
+
+Linear Regression: Used for predicting a continuous target variable based on one or more predictor variables.
+Logistic Regression: Used for binary classification problems.
+Decision Trees: A non-parametric supervised learning method used for classification and regression.
+Support Vector Machines (SVM): Used for classification and regression tasks by finding the hyperplane that best separates the classes.
+K-Nearest Neighbors (KNN): A simple, instance-based learning algorithm used for classification and regression.
+Naive Bayes: A probabilistic classifier based on Bayes' theorem with strong independence assumptions between the features.
+Random Forest: An ensemble method that uses multiple decision trees to improve the accuracy and control over-fitting.
+K-Means Clustering: An unsupervised learning algorithm used for clustering data into k groups.
+Principal Component Analysis (PCA): A dimensionality reduction technique used to reduce the number of features in a dataset.
+Neural Networks: A set of algorithms modeled after the human brain, used for complex pattern recognition tasks.
